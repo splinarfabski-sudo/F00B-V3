@@ -89,4 +89,32 @@ setInterval(load, 2000);
 
 </body>
 </html>const supabaseUrl = https://jhpmqieqjfgshiskcwea.supabase.co/rest/v1/
-const supabaseKey = sb_publishable_wOmLn6M1amR8EPH8r9Osfw__aHAHe_I
+const supabaseKey = sb_publishable_wOmLn6M1amR8EPH8r9Osfw__aHAHe_Iindex.html<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>F00B</title>
+
+<style>
+body {
+  background:black;
+  color:white;
+  font-family:sans-serif;
+  text-align:center;
+}
+h1 { color:#00aaff; }
+button { padding:10px; background:#007bff; color:white; border:none; }
+</style>
+</head>
+
+<body>
+
+<h1>F00B</h1>
+
+<p>Deine App läuft 🚀</p>
+
+<button onclick="alert('F00B funktioniert!')">Test</button>
+
+</body>
+</html>
