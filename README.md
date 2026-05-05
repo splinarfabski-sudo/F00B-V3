@@ -36,8 +36,8 @@ button { background:#007bff; color:white; border:none; }
 <div id="chat"></div>
 
 <script>
-const supabaseUrl = "DEINE_URL";
-const supabaseKey = "DEIN_KEY";
+const supabaseUrl = https://jhpmqieqjfgshiskcwea.supabase.co/rest/v1/
+const supabaseKey = sb_publishable_wOmLn6M1amR8EPH8r9Osfw__aHAHe_I
 const client = supabase.createClient(supabaseUrl, supabaseKey);
 
 let room = "";
